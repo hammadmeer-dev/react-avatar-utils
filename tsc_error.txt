@@ -1,0 +1,5 @@
+src/lib/DefaultAvatar.tsx(17,11): error TS6133: 'malePath' is declared but its value is never read.
+src/lib/DefaultAvatar.tsx(24,11): error TS6133: 'femalePath' is declared but its value is never read.
+src/lib/DefaultAvatar.tsx(44,11): error TS6133: 'renderIcon' is declared but its value is never read.
+src/lib/DefaultAvatar.tsx(73,11): error TS6133: 'MalePath' is declared but its value is never read.
+src/lib/DefaultAvatar.tsx(74,11): error TS6133: 'FemalePath' is declared but its value is never read.
